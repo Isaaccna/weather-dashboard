@@ -27,6 +27,11 @@ After the user refreshs the page, They are presented with the last seached city'
 
 <img src="./assets/images/weather-dashboard03.png" alt = "the user interface of the weather dashboard">
 
+## Deployed page
+
+https://isaaccna.github.io/weather-dashboard/
+
+
 
 
 
